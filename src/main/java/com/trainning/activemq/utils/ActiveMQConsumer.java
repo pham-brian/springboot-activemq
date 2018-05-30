@@ -1,4 +1,4 @@
-package com.trainning.Springbootactivemq.utils;
+package com.trainning.activemq.utils;
 
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package com.trainning.Springbootactivemq;
+package com.trainning.activemq;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
